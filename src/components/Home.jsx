@@ -15,7 +15,7 @@ function Home() {
         </article>
         
         <article className="w-[80%]  md:h-[100%] grid place-items-center md:w-[100%]">
-            <img src="/img/marioxD3.png" className="w-[450px]"/>
+            <img src="/img/marioxD3.png" className="w-[500px]"/>
         </article>
     </main>
   )
