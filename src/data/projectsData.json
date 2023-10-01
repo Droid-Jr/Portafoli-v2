@@ -1,17 +1,48 @@
 [
     {
         
-        "imagen" : "",
+        "imagen" : "/projex/html-css.png",
         "lenguajes" : "javascript, html , css",
         "title" : "Ecomerce",
-        "descri" : "Proyecto "
+        "descri" : "Primer proyecto ecomer  "
     },
     {
      
-        "imagen" : "",
-        "lenguajes" : "javascript, html , css",
+        "imagen" : "/projex/clima.png",
+        "lenguajes" : "React, css, apiRes, Axios",
+        "title" : "Clima APP",
+        "descri" : "Aplicacion Web del clima "
+    },
+    {
+        
+        "imagen" : "/projex/crud.png",
+        "lenguajes" : "React, Axios , ApiRes , Tailwind",
+        "title" : "Crud de Usuarios",
+        "descri" : "Apliacion Web Crud de Usuarios"
+    },
+    {
+        
+        "imagen" : "/projex/ryki.png",
+        "lenguajes" : "React, Axios , ApiRes , Tailwind",
+        "title" : "Rick and Morthy",
+        "descri" : "Aplicacion web"
+    },
+    {
+        
+        "imagen" : "/projex/poke.png",
+        "lenguajes" : "React, Axios , ApiRes , Tailwind , Redux",
+        "title" : "Poke Api",
+        "descri" : "Apliacion Web De Pokemones"
+    },
+    {
+        
+        "imagen" : "/projex/ecomerReact.png",
+        "lenguajes" : "React, Axios , ApiRes , Tailwind, Redux , React-hook-form",
         "title" : "Ecomerce",
-        "descri" : "Proyecto de una tienda funcional"
+        "descri" : "Apliacion Web Ecomerce"
     }
+   
+    
+
 
 ]
