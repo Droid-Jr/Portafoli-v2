@@ -1,0 +1,46 @@
+[
+    {
+        "img" :"/tecno/1.png",
+        "tiele" : "React"
+    },
+    {
+        "img" :"/tecno/2.png",
+        "tiele" : "React Router"
+    },
+    {
+        "img" :"/tecno/3.png",
+        "tiele" : "Redux"
+    },
+    {
+        "img" :"/tecno/4.png",
+        "tiele" : "Javascript"
+    },
+    {
+        "img" :"/tecno/5.png",
+        "tiele" : "Html5"
+    },
+    {
+        "img" :"/tecno/6.png",
+        "tiele" : "Css"
+    },
+    {
+        "img" :"/tecno/7.png",
+        "tiele" : "Git"
+    },
+    {
+        "img" :"/tecno/8.png",
+        "tiele" : "GitHub"
+    },
+    {
+        "img" :"/tecno/9.png",
+        "tiele" : "Tailwind"
+    },
+    {
+        "img" :"/tecno/10.png",
+        "tiele" : "Postgres"
+    },
+    {
+        "img" :"/tecno/11.png",
+        "tiele" : "Bootstrap"
+    }
+]

@@ -7,7 +7,7 @@ function Projects() {
 
 
   return (
-    <section className="w-[87%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  "  >
+    <section className="w-[90%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  "  >
 
         <main className='w-[100%] flex flex-col gap-7'>
 
@@ -28,12 +28,12 @@ function Projects() {
                         </picture>
 
                         <div className='flex flex-col gap-4 '>
-                        <h2 className='border text-center font-fira font-medium [font-size:_clamp(1em,2vw,1.1em)] md:py-1 text-[white]'>{xd.lenguajes}</h2>
+                        <h2 className='border text-center font-fira font-medium [font-size:_clamp(1em,2vw,1.1em)] md:py-1 text-[#ABB2BF]'>{xd.lenguajes}</h2>
                         <h3 className='font-fira font-medium [font-size:_clamp(1.4em,1vw,2.4em)] px-4 text-[#C778DD]'>{xd.title}</h3>
-                        <p className='font-fira font-medium [font-size:_clamp(1em,2vw,1.1em)] px-4 text-[white]'>{xd.descri}</p>
+                        <p className='font-fira font-medium [font-size:_clamp(1em,2vw,1.1em)] px-4 text-[#ABB2BF]'>{xd.descri}</p>
                         <div className='flex justify-around '>
-                            <button className='border px-7 py-1 duration-[400ms] ease-in-out hover:border-[#C778DD] text-[white] hover:text-[#C778DD]'><i class="fa-regular fa-eye"></i></button>
-                            <button className='border px-7 py-1 duration-[400ms] ease-in-out hover:border-[#C778DD] text-[white] hover:text-[#C778DD]'><i className="fa-brands fa-github"></i></button>
+                            <a href={xd.link} target="_blank" className='border px-7 py-1 duration-[400ms] ease-in-out hover:border-[#C778DD] text-[white] hover:text-[#C778DD]'><i class="fa-regular fa-eye"></i></a>
+                            <a href={xd.git} target="_blank" className='border px-7 py-1 duration-[400ms] ease-in-out hover:border-[#C778DD] text-[white] hover:text-[#C778DD]'><i className="fa-brands fa-github"></i></a>
                         </div>
                         </div>
 

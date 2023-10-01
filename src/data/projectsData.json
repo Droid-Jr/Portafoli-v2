@@ -4,42 +4,54 @@
         "imagen" : "/projex/html-css.png",
         "lenguajes" : "javascript, html , css",
         "title" : "Ecomerce",
-        "descri" : "Primer proyecto ecomer  "
+        "descri" : "Primer proyecto ecomer  ",
+        "link" : "https://ecomer-mario-r895.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/Ecomer-Mario"
     },
     {
      
         "imagen" : "/projex/clima.png",
         "lenguajes" : "React, css, apiRes, Axios",
         "title" : "Clima APP",
-        "descri" : "Aplicacion Web del clima "
+        "descri" : "Aplicacion Web del clima ",
+        "link" : "https://clima-app-pi-three.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/clima-app"
     },
     {
         
         "imagen" : "/projex/crud.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind",
         "title" : "Crud de Usuarios",
-        "descri" : "Apliacion Web Crud de Usuarios"
+        "descri" : "Apliacion Web Crud de Usuarios",
+        "link" : "https://crud-de-usuario.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/Crud-de-Usuario"
     },
     {
         
         "imagen" : "/projex/ryki.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind",
         "title" : "Rick and Morthy",
-        "descri" : "Aplicacion web"
+        "descri" : "Aplicacion web",
+        "link" : "https://ryki-and-morthy-2.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/Ryki-and-Morthy-2"
     },
     {
         
         "imagen" : "/projex/poke.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind , Redux",
         "title" : "Poke Api",
-        "descri" : "Apliacion Web De Pokemones"
+        "descri" : "Apliacion Web De Pokemones",
+        "link" : "https://poke-api-six-green.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/Poke-api"
     },
     {
         
         "imagen" : "/projex/ecomerReact.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind, Redux , React-hook-form",
         "title" : "Ecomerce",
-        "descri" : "Apliacion Web Ecomerce"
+        "descri" : "Apliacion Web Ecomerce",
+        "link" : "https://ecomer-1.vercel.app/",
+        "git" : "https://github.com/Droid-Jr/Ecomer-1"
     }
    
     

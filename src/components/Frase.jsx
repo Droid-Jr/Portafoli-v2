@@ -4,7 +4,7 @@ function Frase() {
 
   return (
 
-    <section className="w-[90%] h-[250px]   md:min-w-[70%] md:h-[46%]   flex justify-center   m-auto">
+    <section className="w-[90%] h-[250px]   md:min-w-[70%] md:h-[36%]   flex justify-center   m-auto">
        
        <article className="flex flex-col   md:w-[40%] ">
 

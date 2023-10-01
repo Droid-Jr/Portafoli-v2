@@ -5,6 +5,7 @@ import Frase from './components/Frase'
 import Home from './components/Home'
 import Navbar from './components/Navbar'
 import Projects from './components/Projects'
+import Skill from './components/Skill'
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
     <Frase/>
     <Education/>
     <Projects/>
+    <Skill/>
     </main>
   )
 }
