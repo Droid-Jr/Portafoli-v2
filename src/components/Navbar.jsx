@@ -31,19 +31,19 @@ function Navbar() {
             Menu && "left-0 opacity-[1] z-30"
           }  `}
         >
-          <Link to="home" onClick={OpenMenu}>
+          <Link to="home" onClick={OpenMenu} className="cursor-pointer">
             <span className="text-[#C778DD] text-[18px]">#</span>Home
           </Link>
-          <Link to="about" onClick={OpenMenu}>
+          <Link to="about" onClick={OpenMenu} className="cursor-pointer">
             <span className="text-[#C778DD] text-[18px]">#</span>About
           </Link>
-          <Link to="education" onClick={OpenMenu}>
+          <Link to="education" onClick={OpenMenu} className="cursor-pointer">
             <span className="text-[#C778DD] text-[18px]">#</span>Education
           </Link>
-          <Link to="project" onClick={OpenMenu}>
+          <Link to="project" onClick={OpenMenu} className="cursor-pointer">
             <span className="text-[#C778DD] text-[18px]">#</span>Projects
           </Link>
-          <Link to="contac" onClick={OpenMenu}>
+          <Link to="contac" onClick={OpenMenu} className="cursor-pointer">
             <span className="text-[#C778DD] text-[18px]">#</span>Contact
           </Link>
         </ul>
