@@ -4,7 +4,7 @@ function Projects() {
   return (
     <section id="project" className="w-[90%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  ">
       <main className="w-[100%] flex flex-col gap-7">
-        <article className="flex items-center  gap-2">
+        <article className="flex items-center  gap-2 " data-aos="zoom-in">
           <h3 className="text-[#C778DD] font-fira font-medium [font-size:_clamp(1.4em,3vw,4em)]">
             #
           </h3>
@@ -16,7 +16,8 @@ function Projects() {
 
         <article className="grid w-[100%] place-content-center md:grid-cols-2 lg:grid-cols-3  py-3 gap-5 ">
           {dts?.map((xd, index) => (
-            <div
+            <div   data-aos="fade-up"
+            data-aos-duration="3000"
               className="w-[300px]  grid pb-2 min-h-[250px] border cursor-pointer duration-[400ms] shadow-[1px_1px_5px_#C778DD] hover:bg-[rgb(199,120,221,.2)]"
               key={index}
             >

@@ -3,7 +3,9 @@ import skills from "../skill/Skill.json";
 function Skill() {
   return (
     <section id="skill" className="w-[80%] mt-5 py-5 flex flex-col gap-8  md:w-[90%] md:h-[80%]  m-auto  ">
-      <article className="flex items-center gap-5 ">
+      <article className="flex items-center gap-5 " data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
         <h2 className="[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]">
           #
         </h2>
@@ -16,6 +18,8 @@ function Skill() {
       <article className="   grid sm:grid-cols-2 justify-center gap-5 md:grid-cols-3 lg:grid-cols-4">
         {skills.map((items, index) => (
           <div
+          data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom"
             key={index}
             className="border w-[200px] gap-5 h-[200px] grid justify-center cursor-pointer text-center duration-[400ms] hover:scale-90 hover:border-[#C778DD] shadow-[2px_2px_6px_#4F1F5C] hover:shadow-[1px_1px_5px_white]"
           >

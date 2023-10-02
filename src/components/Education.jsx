@@ -1,8 +1,8 @@
 function Education() {
   return (
     <section id="education" className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
-      <section className="  ">
-        <article className="px-5  flex items-center gap-2">
+      <section className="  " >
+        <article className="px-5  flex items-center gap-2  " >
           <h2 className="[font-size:_clamp(1.6em,3vw,3em)] text-[#C778DD]">
             #
           </h2>
@@ -14,16 +14,16 @@ function Education() {
           <div className="w-[20%] h-[3px] bg-[#C778DD]"></div>
         </article>
 
-        <article className={`grid gap-7  md:gap-10 md:grid-cols-2 `}>
+        <article className={`grid gap-7  md:gap-10 md:grid-cols-2 ` } >
           <div className=" flex">
-            <div className=" w-[50px] flex flex-col items-center">
+            <div className=" w-[50px] flex flex-col items-center" data-aos="fade-right">
               <div
                 className={`w-[25px] h-[25px]  rounded-full  bg-[#ffffff]`}
               ></div>
               <div className={`w-[5px] h-[320px]   bg-[#ffffff]`}></div>
             </div>
 
-            <div className={` w-[87%] grid `}>
+            <div className={` w-[87%] grid `} data-aos="fade-right">
               <h2
                 className={`[font-size:_clamp(1.2em,2vw,1.7em)] font-medium font-fira text-[#ffffff]`}
               >
@@ -49,14 +49,14 @@ function Education() {
           </div>
 
           <div className={` flex`}>
-            <div className={`w-[50px] flex flex-col items-center`}>
+            <div className={`w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
                 className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
               ></div>
               <div className={`w-[5px] h-[320px] bg-[#ffffff]`}></div>
             </div>
 
-            <div className={`w-[87%] grid `}>
+            <div className={`w-[87%] grid `} data-aos="fade-right">
               <h2
                 className={`[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]`}
               >
@@ -88,14 +88,14 @@ function Education() {
           </div>
 
           <div className={` flex`}>
-            <div className={` w-[50px] flex flex-col items-center`}>
+            <div className={` w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
                 className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
               ></div>
               <div className={`w-[5px] h-[320px] bg-[#ffffff]`}></div>
             </div>
 
-            <div className={` w-[87%] grid gap-4`}>
+            <div className={` w-[87%] grid gap-4`} data-aos="fade-right">
               <h2
                 className={`[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]`}
               >
@@ -126,14 +126,14 @@ function Education() {
           </div>
 
           <div className={` flex`}>
-            <div className={` w-[50px] flex flex-col items-center`}>
+            <div className={` w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
                 className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
               ></div>
               <div className={`w-[5px] h-[325px] bg-[#ffffff]`}></div>
             </div>
 
-            <div className={` w-[87%] grid gap-4`}>
+            <div className={` w-[87%] grid gap-4`} data-aos="fade-right"> 
               <h2
                 className={`[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]`}
               >
