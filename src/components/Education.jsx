@@ -1,6 +1,6 @@
 function Education() {
   return (
-    <section className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
+    <section id="education" className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
       <section className="  ">
         <article className="px-5  flex items-center gap-2">
           <h2 className="[font-size:_clamp(1.6em,3vw,3em)] text-[#C778DD]">

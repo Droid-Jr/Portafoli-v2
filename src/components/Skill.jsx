@@ -2,7 +2,7 @@ import skills from "../skill/Skill.json";
 
 function Skill() {
   return (
-    <section className="w-[80%] mt-5 py-5 flex flex-col gap-8  md:w-[90%] md:h-[80%]  m-auto  ">
+    <section id="skill" className="w-[80%] mt-5 py-5 flex flex-col gap-8  md:w-[90%] md:h-[80%]  m-auto  ">
       <article className="flex items-center gap-5 ">
         <h2 className="[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]">
           #

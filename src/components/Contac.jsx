@@ -1,6 +1,6 @@
 function Contac() {
   return (
-    <div className="w-[80%]    grid gap-8  md:w-[90%] md:h-[100%]  m-auto ">
+    <div id="contac" className="w-[80%]    grid gap-8  md:w-[90%] md:h-[100%]  m-auto ">
       <article className="flex items-center  gap-2">
         <h3 className="text-[#C778DD] font-fira font-medium [font-size:_clamp(1.4em,3vw,4em)]">
           #

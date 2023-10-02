@@ -2,7 +2,7 @@ import dts from "../data/projectsData.json";
 
 function Projects() {
   return (
-    <section className="w-[90%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  ">
+    <section id="project" className="w-[90%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  ">
       <main className="w-[100%] flex flex-col gap-7">
         <article className="flex items-center  gap-2">
           <h3 className="text-[#C778DD] font-fira font-medium [font-size:_clamp(1.4em,3vw,4em)]">
