@@ -3,8 +3,10 @@
         
         "imagen" : "/projex/html-css.png",
         "lenguajes" : "javascript, html , css",
-        "title" : "Ecomerce",
-        "descri" : "Primer proyecto ecomer  ",
+        "title" : "Comercio electrónico",
+        "title2" : "Ecomerce",
+        "descri" : "Apliacion Web Ecomerce",
+        "descri2" : "Ecommerce Web Application",
         "link" : "https://ecomer-mario-r895.vercel.app/",
         "git" : "https://github.com/Droid-Jr/Ecomer-Mario"
     },
@@ -12,8 +14,10 @@
      
         "imagen" : "/projex/clima.png",
         "lenguajes" : "React, css, apiRes, Axios",
-        "title" : "Clima APP",
-        "descri" : "Aplicacion Web del clima ",
+        "title" :"Aplicación Clima",
+        "title2" :  "Weather app" ,
+        "descri" : "Aplicación web del clima",
+        "descri2" : "Weather web application",
         "link" : "https://clima-app-pi-three.vercel.app/",
         "git" : "https://github.com/Droid-Jr/clima-app"
     },
@@ -22,7 +26,9 @@
         "imagen" : "/projex/crud.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind",
         "title" : "Crud de Usuarios",
-        "descri" : "Apliacion Web Crud de Usuarios",
+        "title2" :  "User Crude" ,
+        "descri" : "Aplicación web Crud de usuario",
+        "descri2" : "User Crud Web Application",
         "link" : "https://crud-de-usuario.vercel.app/",
         "git" : "https://github.com/Droid-Jr/Crud-de-Usuario"
     },
@@ -30,8 +36,10 @@
         
         "imagen" : "/projex/ryki.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind",
-        "title" : "Rick and Morthy",
+        "title" : "Aplicación Rick y Morthy",
+        "title2" :  "Rick and Morthy App" ,
         "descri" : "Aplicacion web",
+        "descri2" : "Web Application Rick and Morthy",
         "link" : "https://ryki-and-morthy-2.vercel.app/",
         "git" : "https://github.com/Droid-Jr/Ryki-and-Morthy-2"
     },
@@ -39,8 +47,10 @@
         
         "imagen" : "/projex/poke.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind , Redux",
-        "title" : "Poke Api",
-        "descri" : "Apliacion Web De Pokemones",
+        "title" : "Aplicación Pokémon",
+        "title2" : "Pokemon App",
+        "descri" : "Aplicación web Pokémon",
+        "descri2" : "Pokemon Web Application",
         "link" : "https://poke-api-six-green.vercel.app/",
         "git" : "https://github.com/Droid-Jr/Poke-api"
     },
@@ -48,8 +58,10 @@
         
         "imagen" : "/projex/ecomerReact.png",
         "lenguajes" : "React, Axios , ApiRes , Tailwind, Redux , React-hook-form",
-        "title" : "Ecomerce",
+        "title" : "Comercio electrónico",
+        "title2" : "Ecomerce",
         "descri" : "Apliacion Web Ecomerce",
+        "descri2" : "Ecommerce Web Application",
         "link" : "https://ecomer-1.vercel.app/",
         "git" : "https://github.com/Droid-Jr/Ecomer-1"
     }

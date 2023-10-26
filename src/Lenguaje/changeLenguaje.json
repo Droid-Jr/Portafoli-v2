@@ -1,0 +1,41 @@
+{
+    "navbar" : {
+        "Home" : "Inicio",
+        "About" : "Acerca de",
+        "Education" : "Educacion",
+        "Project" : "Projectos",
+        "Contac" : "Contacto",
+        "skill"  :"Habilidad"
+    },
+    "home" : {
+        "h1" : "Soy ",
+        "h12" : "desarrollador front-end",
+        "p" : "Desarrollador Web con experiencia en tecnologías de vanguardia, especializado en la arquitectura de aplicaciones web, optimización de rendimiento y soluciones técnicas innovadoras para desafíos complejos",
+        "btn" : "Contáctame!!"
+    },
+    "frase" : {
+        "fra"  :"Primero resuelve el problema, después escribe el código"
+    },
+    "Education" : {
+        "h2" : "Educacion",
+        "sumary" : "'RESUMEN'",
+        "p" :" Academlo con habilidades de socialización, planificación de estrategias para lograr un buen objetivo y liderazgo. me gusta aprender nuevo cosas, para poder lograr los objetivos propuestos, estoy interesados ​​en desarrollarse en áreas muy avanzadas como programación, diseño web, me motiva el trabajo en equipo, el progreso y buena apariencia.",
+        "certi" : "Certificado",
+        "funda"  : "Fundamentos del desarrollo web",
+        "pFun" : "En fundamentos obtuvimos las habilidades necesarias para desarrollar correctamente la parte visual de un sitio web responsivo sin utilizar librerías/frameworks, así como agregar contenido dinámico con javascript, trabajar colaborativamente con git.",
+        "react" : "Desarrollo de aplicaciones web con React",
+        "pReact" : "En React aprendimos a crear aplicaciones web con React JS, logrando una gran interacción con el usuario utilizando conocimientos previos de HTML, CSS y Javascript.",
+        "back" : "En Back aprendimos cómo construir una aplicación desde el servidor con Node y Express desde 0 para implementarla en un servidor y hacer una API Rest usando una base de datos relacional, autenticación de usuarios, seguridad contra ataques XSS y CSRF, podrás validar la Los datos que recibe el servidor y puede crear middlewares personalizados con Express."
+    },
+    "Aboute" : {
+        "h2" : "Hola Soy Mario",
+        "pAbout" : "Hola soy Mario Carbajal soy muy apasionado y dedicado a mi trabajo. Con el compromiso que me caracteriza, Busco mejorar mis conocimientos cada día. Actualmente estoy buscando mejorar mis habilidades a través de muchos proyectos",
+        "pAbout2" : "Soy un apasionado desarrollador web Full Stack, con un fuerte enfoque en el front-end. Mi objetivo es crear aplicaciones web excepcionales, asumiendo desafíos constantes para mejorar mis habilidades. Estoy motivado por un deseo inquebrantable de aprendizaje continuo motivación inquebrantable es seguir adquiriendo conocimientos y experiencias para ofrecer soluciones web innovadoras y de alta calidad.",
+        "btn" : "Descargar CV"
+    },
+    "Contac" : {
+        "p" : "Soy Mario, un apasionado desarrollador web con experiencia sólida en tecnologías clave como JavaScript, Vue.js, Redux, HTML5, React.js y Node.js. Mi enfoque se centra en la creación de soluciones web atractivas y efectivas. Lo que me impulsa es la colaboración en equipo y la resolución de desafíos técnicos. Estoy ansioso por contribuir a proyectos innovadores. Si buscas un profesional apasionado y comprometido para tu equipo, ¡contáctame y exploremos cómo puedo aportar valor a tu organización!",
+        "message" : "envíame un mensaje aquí"
+    }
+    
+}

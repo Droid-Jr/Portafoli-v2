@@ -8,6 +8,7 @@ function Footer() {
               <img
                 src="/img/logito.png"
                 loading="lazy"
+                alt="logo"
                 className="w-[30px] h-[40px] drop-shadow-[1px_1px_2px_#000000]"
               />
               <h2 className="font-fira font-medium text-[16px] text-[white]">
@@ -40,18 +41,18 @@ function Footer() {
                 href="https://www.linkedin.com/in/mario-carbajal-39160a24b/"
                 target="_blank"
               >
-                <i class="fa-brands fa-github [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
+                <i className="fa-brands fa-github [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
               </a>
 
               <a href="mailto:droidjr10@gmail.com" target="_blank">
-                <i class="fa-solid fa-envelope [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
+                <i className="fa-solid fa-envelope [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
               </a>
 
               <a
                 href="https://www.facebook.com/joseph.carvajal.7393/"
                 target="_blank"
               >
-                <i class="fa-brands fa-facebook [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
+                <i className="fa-brands fa-facebook [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff] duration-[400ms] ease-in-out hover:text-[#C778DD]"></i>
               </a>
             </div>
           </article>

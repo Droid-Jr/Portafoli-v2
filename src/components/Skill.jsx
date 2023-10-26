@@ -1,6 +1,8 @@
+import lengua from '../Lenguaje/changeLenguaje.json'
+
 import skills from "../skill/Skill.json";
 
-function Skill() {
+function Skill( {idioma} ) {
   return (
     <section id="skill" className="w-[80%] mt-5 py-5 flex flex-col gap-8  md:w-[90%] md:h-[80%]  m-auto  ">
       <article className="flex items-center gap-5 " data-aos="fade-right"
@@ -10,7 +12,7 @@ function Skill() {
           #
         </h2>
         <h2 className="[font-size:_clamp(1.8em,3vw,5em)] font-medium font-fira text-[white]">
-          Skills
+          {idioma ? lengua.navbar.skill : "Skills"}
         </h2>
         <div className="w-[30%] h-[3px] bg-[#a05bb3]"></div>
       </article>
@@ -23,7 +25,7 @@ function Skill() {
             key={index}
             className="border w-[200px] gap-5 h-[200px] grid justify-center cursor-pointer text-center duration-[400ms] hover:scale-90 hover:border-[#C778DD] shadow-[2px_2px_6px_#4F1F5C] hover:shadow-[1px_1px_5px_white]"
           >
-            <img src={items.img} loading="lazy" className="m-auto" />
+            <img src={items.img} loading="lazy" className="m-auto" alt='logo'/>
             <h3 className="[font-size:_clamp(1.4em,3vw,1.2em)] font-medium font-fira text-[#C778DD] ">
               {items.tiele}
             </h3>
