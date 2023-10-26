@@ -4,7 +4,7 @@ function Frase( {idioma} ) {
 
 
   return (
-    <section className="w-[90%] h-[250px]   md:min-w-[70%] md:h-[36%]   flex justify-center   m-auto">
+    <section className="w-[90%] h-[250px]   md:min-w-[70%] md:h-[350px]   flex justify-center items-center  m-auto">
       <article className="flex flex-col   md:w-[40%] ">
         <div className="border border-[white] relative animate__animated animate__zoomInDown">
           <h2 className="font-fira font-medium [font-size:_clamp(1.2em,2vw,1.5em)] text-center text-[white] py-3 md:py-7">

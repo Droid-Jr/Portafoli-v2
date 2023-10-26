@@ -6,8 +6,8 @@ function Home( {idioma} ) {
   
 
   return (
-    <main id="home" className="w-[95%] py-5  md:w-[80%] md:h-[430px] grid place-items-center  md:flex m-auto gap-4 md:gap-0">
-      <article className=" w-[80%] md:h-[100%] flex flex-col gap-11 justify-center ">
+    <main id="home" className="w-[95%] py-5  md:w-[80%] md:h-[430px] grid place-items-center  md:flex m-auto ">
+      <article className=" w-[80%] md:h-[100%] flex flex-col gap-4 justify-center ">
         <h1 className="animate__animated animate__fadeInLeft font-fira font-semibold [font-size:_clamp(1.4em,3vw,2em)] text-[white]">
           {idioma ? lengua.home.h1 : "I'm"} <span className="text-[#C778DD]">Mario Carbajal,</span> {idioma ? lengua.home.h12 : "front-end developer"}
         </h1>

@@ -16,7 +16,7 @@ function App() {
   const [idioma , cambio] = useLenguaje();
 
   return (
-    <main className='flex flex-col gap-10  bg-[#282C33] overflow-hidden overflow-y-scroll'>
+    <main className='flex flex-col gap-5 md:gap-9  bg-[#282C33] overflow-hidden overflow-y-scroll'>
     <Navbar idioma={idioma} cambio={cambio}/>
     <Home idioma={idioma} />
     <Frase idioma={idioma}/>

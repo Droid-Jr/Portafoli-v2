@@ -10,7 +10,7 @@ function Navbar( {idioma , cambio} ) {
 
   return (
     <header
-      className={`w-[90%]  m-auto rounded-md shadow-md h-[50px] flex justify-around  items-center gap-5 duration-700 bg-[#3f3f3f]`}
+      className={`w-[90%]  m-auto rounded-md  h-[50px] flex justify-around  items-center gap-5 duration-700 `}
     >
       <div className="flex gap-2 text-[white] ">
         <img src="/img/logito.png" className="w-[25px]" alt='logo' />
@@ -45,8 +45,8 @@ function Navbar( {idioma , cambio} ) {
         </div>
 
         <ul
-          className={`bg-[rgb(5,5,5,.9)]  md:bg-transparent mt-2 rounded-r-md absolute -left-[100%]   w-[100%] h-[95%] md:static md:grid md:grid-cols-5 md:border-none gap-10  duration-[500ms] opacity-0 md:opacity-[1] md:text-[15px] lg:text-[18px] ease-in-out flex flex-col justify-center items-center text-[30px] font-fira md:font-medium text-[white] ${
-            Menu && "left-[1px] opacity-[1] z-30"
+          className={`bg-[rgb(5,5,5,.9)]  md:bg-transparent mt-2 rounded-r-md absolute -left-[100%]   w-[100%] h-[95%] md:static md:grid md:grid-cols-5 md:border-none gap-10  duration-[500ms]  md:text-[15px] lg:text-[18px] ease-in-out flex flex-col justify-center items-center text-[30px] font-fira md:font-medium text-[white] ${
+            Menu && "left-[1px]  z-30"
           }  `}
         >
           <Link to="home" onClick={OpenMenu} className={`cursor-pointer duration-300 ease-in-out hover:text-[#C778DD] `}>
