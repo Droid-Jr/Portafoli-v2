@@ -59,7 +59,7 @@ function Navbar( {idioma , cambio} ) {
             <span className="text-[#C778DD] text-[18px]">#</span>{idioma ? lengua.navbar.Education : "Education"}
           </Link>
           <Link to="project" onClick={OpenMenu} className="cursor-pointer duration-300 ease-in-out hover:text-[#C778DD]">
-            <span className="text-[#C778DD] text-[18px]">#</span>{idioma ? lengua.navbar.Project : "Projects"}
+            <span className="text-[#C778DD] text-[18px]">#</span>{idioma ? lengua.navbar.Project : "Proyects"}
           </Link>
           <Link to="contac" onClick={OpenMenu} className="cursor-pointer duration-300 ease-in-out hover:text-[#C778DD]">
             <span className="text-[#C778DD] text-[18px]">#</span>{idioma ? lengua.navbar.Contac : "Contact"}

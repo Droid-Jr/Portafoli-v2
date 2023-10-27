@@ -10,7 +10,7 @@ function Projects( {idioma} ) {
             #
           </h3>
           <h2 className="[font-size:_clamp(2em,3vw,4em)] text-[white]">
-            { idioma ? lengua.navbar.Project : "Projects"}
+            { idioma ? lengua.navbar.Project : "Proyects"}
           </h2>
           <div className="w-[40%] h-[3px] bg-[#C778DD]"></div>
         </article>
