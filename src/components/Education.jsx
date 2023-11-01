@@ -8,7 +8,7 @@ function Education( {idioma} ) {
 
   return (
     <section  id="education" className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
-      <section>
+      <section >
         <article className="px-5  flex items-center gap-2  " >
           <h2 className="[font-size:_clamp(1.6em,3vw,3em)] text-[#C778DD]">
             #
@@ -22,7 +22,7 @@ function Education( {idioma} ) {
         </article>
 
         <article 
-        className={`grid gap-7  md:gap-10 md:grid-cols-2 ` } >
+        className={` grid gap-7 items-center md:gap-10 md:px-10 md:grid-cols-2 ` } >
           <div  className=" flex">
             <div className=" w-[50px] flex flex-col items-center" data-aos="fade-right">
               <div
@@ -127,7 +127,7 @@ function Education( {idioma} ) {
               <div
                 className={`w-[15px] h-[15px] bg-[#ffffff] rounded-full`}
               ></div>
-              <div className={`w-[3px] h-[325px] bg-[#ffffff]`}></div>
+              <div className={`w-[3px] h-[355px] bg-[#ffffff]`}></div>
             </div>
 
             <div className={` w-[87%] grid gap-4`} data-aos="fade-right"> 

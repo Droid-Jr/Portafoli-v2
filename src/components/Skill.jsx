@@ -17,7 +17,7 @@ function Skill( {idioma} ) {
         <div className="w-[30%] h-[3px] bg-[#a05bb3]"></div>
       </article>
 
-      <article className="   grid sm:grid-cols-2 justify-center gap-5 md:grid-cols-3 lg:grid-cols-4">
+      <article className=" grid sm:grid-cols-2 place-items-center gap-5 md:grid-cols-3 lg:grid-cols-4">
         {skills.map((items, index) => (
           <div
           data-aos="fade-up"
