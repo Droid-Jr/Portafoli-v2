@@ -3,8 +3,8 @@ import lengua from '../Lenguaje/changeLenguaje.json'
 
 function Projects( {idioma} ) {
   return (
-    <section id="project" className="w-[90%] mt-20  md:mt-28  grid place-items-center  md:flex m-auto  ">
-      <main className="w-[100%] flex flex-col gap-7">
+    <section id="project" className="w-[90%] mt-20  md:mt-28  grid place-items-center   md:flex m-auto  ">
+      <main className="w-[100%] flex flex-col gap-7 ">
         <article className="flex items-center  gap-2 " data-aos="zoom-in">
           <h3 className="text-[#C778DD] font-fira font-medium [font-size:_clamp(1.4em,3vw,4em)]">
             #
@@ -15,7 +15,7 @@ function Projects( {idioma} ) {
           <div className="w-[40%] h-[3px] bg-[#C778DD]"></div>
         </article>
 
-        <article className="grid w-[100%] place-content-center md:grid-cols-2 lg:grid-cols-3  py-3 gap-5 ">
+        <article className="grid w-[100%] place-content-center place-items-center md:grid-cols-2 lg:grid-cols-3  py-3 gap-5 ">
           {dts?.map((xd, index) => (
             <div   data-aos="fade-up"
             data-aos-duration="3000"

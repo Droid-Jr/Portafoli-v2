@@ -3,9 +3,12 @@ import lengua from '../Lenguaje/changeLenguaje.json'
 
 function Education( {idioma} ) {
 
+
+
+
   return (
-    <section id="education" className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
-      <section className="  " >
+    <section  id="education" className="  md:mt-0 w-[90%]  m-auto justify-center md:h-[90%]  md:min-w-[70%]  flex flex-col ">
+      <section>
         <article className="px-5  flex items-center gap-2  " >
           <h2 className="[font-size:_clamp(1.6em,3vw,3em)] text-[#C778DD]">
             #
@@ -18,13 +21,14 @@ function Education( {idioma} ) {
           <div className="w-[20%] h-[3px] bg-[#C778DD]"></div>
         </article>
 
-        <article className={`grid gap-7  md:gap-10 md:grid-cols-2 ` } >
-          <div className=" flex">
+        <article 
+        className={`grid gap-7  md:gap-10 md:grid-cols-2 ` } >
+          <div  className=" flex">
             <div className=" w-[50px] flex flex-col items-center" data-aos="fade-right">
               <div
-                className={`w-[25px] h-[25px]  rounded-full  bg-[#ffffff]`}
+                className={`w-[15px] h-[15px]  rounded-full  bg-[#ffffff]`}
               ></div>
-              <div className={`w-[5px] h-[320px]   bg-[#ffffff]`}></div>
+              <div className={`w-[3px] h-[320px]   bg-[#ffffff]`}></div>
             </div>
 
             <div className={` w-[87%] grid `} data-aos="fade-right">
@@ -49,12 +53,12 @@ function Education( {idioma} ) {
           <div className={` flex`}>
             <div className={`w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
-                className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
+                className={`w-[15px] h-[15px] bg-[#ffffff] rounded-full`}
               ></div>
-              <div className={`w-[5px] h-[320px] bg-[#ffffff]`}></div>
+              <div className={`w-[3px] h-[320px] bg-[#ffffff]`}></div>
             </div>
 
-            <div className={`w-[87%] grid `} data-aos="fade-right">
+            <div  className={`w-[87%] grid `} data-aos="fade-right">
               <h2
                 className={`[font-size:_clamp(1.4em,3vw,1.8em)] font-medium font-fira text-[#C778DD]`}
               >
@@ -85,9 +89,9 @@ function Education( {idioma} ) {
           <div className={` flex`}>
             <div className={` w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
-                className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
+                className={`w-[15px] h-[15px] bg-[#ffffff] rounded-full`}
               ></div>
-              <div className={`w-[5px] h-[320px] bg-[#ffffff]`}></div>
+              <div className={`w-[3px] h-[320px] bg-[#ffffff]`}></div>
             </div>
 
             <div className={` w-[87%] grid gap-4`} data-aos="fade-right">
@@ -121,9 +125,9 @@ function Education( {idioma} ) {
           <div className={` flex`}>
             <div className={` w-[50px] flex flex-col items-center`} data-aos="fade-right">
               <div
-                className={`w-[25px] h-[25px] bg-[#ffffff] rounded-full`}
+                className={`w-[15px] h-[15px] bg-[#ffffff] rounded-full`}
               ></div>
-              <div className={`w-[5px] h-[325px] bg-[#ffffff]`}></div>
+              <div className={`w-[3px] h-[325px] bg-[#ffffff]`}></div>
             </div>
 
             <div className={` w-[87%] grid gap-4`} data-aos="fade-right"> 

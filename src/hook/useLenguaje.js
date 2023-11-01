@@ -2,7 +2,7 @@ import { useState } from "react";
 
 
 export default function useLenguaje() {
-  const [Español, setEspañol] = useState(false)
+  const [Español, setEspañol] = useState(true)
 
   const changeIdioma = () => {
     setEspañol(!Español)
