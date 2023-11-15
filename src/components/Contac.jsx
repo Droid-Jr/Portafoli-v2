@@ -21,13 +21,13 @@ function Contac( {idioma} ) {
           </p>
         </div>
 
-        <div className=" h-[600px] w-[100%] grid place-content-center">
-          <div className="border w-[300px] md:w-[400px] h-[300px]"  data-aos="zoom-out-up">
+        <div className=" h-[600px] w-[100%] grid place-content-center ">
+          <div className="border w-[300px] md:w-[430px] min-h-[400px]"  data-aos="zoom-out-up">
             <h2 className="text-[#C778DD] font-fira font-medium [font-size:_clamp(1.4em,2vw,2em)] text-center py-2">
               { idioma ? lengua.Contac.message : "Message me here"}
             </h2>
 
-            <ul className="w-[80%]  m-auto grid h-[85%] ">
+            <ul className="w-[80%]  m-auto flex flex-col justify-around h-[70%]   ">
               <a
                 href="https://www.linkedin.com/in/mario-carbajal-39160a24b/"
                 target="_blank"
@@ -56,7 +56,7 @@ function Contac( {idioma} ) {
               </a>
 
               <a
-                href="https://www.facebook.com/joseph.carvajal.7393/"
+                href="https://www.facebook.com/joseph.carvajal.7393"
                 target="_blank"
               >
                 <i className="fa-brands fa-facebook [font-size:_clamp(1.2em,2vw,2em)] text-[#ffffff]"></i>
