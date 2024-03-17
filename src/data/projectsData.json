@@ -45,7 +45,7 @@
     },
     {
         
-        "imagen" : "/projex/poke.png",
+        "imagen" : "/projex/pokemon.jpg",
         "lenguajes" : "React, Axios , ApiRes , Tailwind , Redux",
         "title" : "Aplicación Pokémon",
         "title2" : "Pokemon App",
