@@ -23,9 +23,9 @@ function Skill( {idioma} ) {
           data-aos="fade-up"
      data-aos-anchor-placement="top-bottom"
             key={index}
-            className="border w-[200px] gap-5 h-[200px] grid justify-center cursor-pointer text-center duration-[400ms] hover:scale-90 hover:border-[#C778DD] shadow-[2px_2px_6px_#4F1F5C] hover:shadow-[1px_1px_5px_white]"
+            className="border w-[200px] gap-5 h-[200px] grid justify-center cursor-pointer text-center duration-300 ease-in-out hover:scale-90 hover:border-[#C778DD] shadow-[2px_2px_6px_#4F1F5C] hover:shadow-[1px_1px_5px_black]"
           >
-            <img src={items.img} loading="lazy" className="m-auto" alt='logo'/>
+            <img src={items.img} loading="lazy" className="w-[6rem] m-auto p-2" alt='logo'/>
             <h3 className="[font-size:_clamp(1.4em,3vw,1.2em)] font-medium font-fira text-[#C778DD] ">
               {items.tiele}
             </h3>

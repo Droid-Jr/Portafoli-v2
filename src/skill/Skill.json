@@ -1,46 +1,62 @@
 [
     {
-        "img" :"/tecno/1.png",
+        "img" :"/tecno/react.svg",
         "tiele" : "React"
     },
     {
-        "img" :"/tecno/2.png",
+        "img" :"/tecno/reactrouter.svg",
         "tiele" : "React Router"
     },
     {
-        "img" :"/tecno/3.png",
+        "img" :"/tecno/redux.svg",
         "tiele" : "Redux"
     },
     {
-        "img" :"/tecno/4.png",
+        "img" :"/tecno/javascript.svg",
         "tiele" : "Javascript"
     },
     {
-        "img" :"/tecno/5.png",
+        "img" :"/tecno/html5.svg",
         "tiele" : "Html5"
     },
     {
-        "img" :"/tecno/6.png",
+        "img" :"/tecno/css.svg",
         "tiele" : "Css"
     },
     {
-        "img" :"/tecno/7.png",
+        "img" :"/tecno/git.svg",
         "tiele" : "Git"
     },
     {
-        "img" :"/tecno/8.png",
+        "img" :"/tecno/github.svg",
         "tiele" : "GitHub"
     },
     {
-        "img" :"/tecno/9.png",
+        "img" :"/tecno/tailwindcss.svg",
         "tiele" : "Tailwind"
     },
     {
-        "img" :"/tecno/10.png",
+        "img" :"/tecno/postgresql.svg",
         "tiele" : "Postgres"
     },
     {
-        "img" :"/tecno/11.png",
+        "img" :"/tecno/bootstrap.svg",
         "tiele" : "Bootstrap"
+    },
+    {
+        "img" :"/tecno/nextjs.svg",
+        "tiele" : "Next"
+    },
+    {
+        "img" :"/tecno/typescript.svg",
+        "tiele" : "Typescript"
+    },
+    {
+        "img" :"/tecno/mysql.svg",
+        "tiele" : "Mysql"
+    },
+    {
+        "img" :"/tecno/postman.svg",
+        "tiele" : "Postman"
     }
 ]
